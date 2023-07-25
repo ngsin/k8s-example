@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T15:25:23.611Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.5" etag="CQVdj_KmFhlpU8jIiI0P" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-25T15:51:52.374Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ifIm5vpGVh8OHB11xHud" version="21.6.5" type="github">
   <diagram name="Page-1" id="MzaEPAjXSHumV93eOKWs">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="y3d61isDdKXwmg-huuUM-7" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Comic Sans MS&quot;&gt;client&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="70" y="70" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="y3d61isDdKXwmg-huuUM-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="y3d61isDdKXwmg-huuUM-5" target="y3d61isDdKXwmg-huuUM-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y3d61isDdKXwmg-huuUM-5" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Comic Sans MS&quot;&gt;NewSharedInformerFactory&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="70" y="160" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3d61isDdKXwmg-huuUM-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y3d61isDdKXwmg-huuUM-7" target="y3d61isDdKXwmg-huuUM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y3d61isDdKXwmg-huuUM-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y3d61isDdKXwmg-huuUM-9" target="y3d61isDdKXwmg-huuUM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y3d61isDdKXwmg-huuUM-9" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Comic Sans MS&quot;&gt;Resync&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="220" y="70" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="y3d61isDdKXwmg-huuUM-13" value="InformerFactory" style="fontColor=#000000;rounded=1;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="435" y="160" width="185" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
